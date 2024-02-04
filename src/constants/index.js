@@ -240,7 +240,7 @@ export const projects = [
         name: "Snapgram",
         description: 'Developed a full stack social media photo-sharing web application, with smooth and stylish UI. Similar to Instagram, users can upload a photo with caption, location and tags, as well as edit and delete the post. The users can also like/unlike and save/unsave posts. Users can follow other creators and see their posts on personal feed. Uses infinite scroll and refresh for better UX.',
         techstack: "TypeScript, React, Appwrite, HTML, Tailwind CSS, Vite",
-        link: 'https://photogram-seven.vercel.app/sign-in'
+        link: 'https://photogram-cxx8d7sps-ssaloni13s-projects.vercel.app/sign-in'
     },
     {
         iconUrl: vinyl,
